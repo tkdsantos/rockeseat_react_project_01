@@ -42,3 +42,13 @@
 
 }
 
+button  {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+footer button {
+    margin-top: 8px;
+}
+

@@ -22,7 +22,7 @@ export function Comment () {
                     <p>Muito bom Devon, parabéns!</p>
                 </div>
                 <footer>
-                    <button>
+                    <button className={styles.ThumbsUp}>
                         <ThumbsUp />
                         Aplaudir <span>20</span>
                     </button>
